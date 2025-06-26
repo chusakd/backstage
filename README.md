@@ -38,6 +38,8 @@ For information about the detailed project roadmap including delivered milestone
 
 To start using Backstage, see the [Getting Started documentation](https://backstage.io/docs/getting-started).
 
+## Quick Start with docker-compose file
+docker run --name ginkgorian-devport -p [port] chusakd/backstage:1.0.0
 ## Documentation
 
 The documentation of Backstage includes:
